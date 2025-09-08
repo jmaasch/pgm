@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Applied Machine Learning
-tagline: Applied Machine Learning
-email: hw434@cornell.edu
+title: Probabilistic Graphical Models
+tagline: Probabilistic Graphical Models
+email: maasch@cs.cornell.edu
 description: >
-  The site for Cornell Tech's Applied Machine Learning.
+  Probabilistic Graphical Models: A Concise Tutorial.
 baseurl: ""
-siteurl: "https://kuleshov-group.github.io/aml-website/"
+siteurl: "https://jmaasch.github.io/pgm/"
 url: ""
 permalink: pretty
 # favicon: "/img/favicon.png"
@@ -71,7 +71,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: aml_footer_menu
+#footer_menu: aml_footer_menu
 
 collections:
   products: 
