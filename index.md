@@ -1,6 +1,6 @@
 ---
-title: Applied Machine Learning
-subtitle: Cornell University - CS 5785 (Open Online Version).
+title: Probabilistic Graphical Models
+subtitle: A Concise Tutorial
 layout: page
 show_sidebar: false
 hero_height: is-medium
