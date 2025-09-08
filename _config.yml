@@ -6,7 +6,7 @@ email: maasch@cs.cornell.edu
 description: >
   Probabilistic Graphical Models: A Concise Tutorial.
 baseurl: ""
-siteurl: "https://jmaasch.github.io/pgm/"
+siteurl: "https://jmaasch.github.io/pgm"
 url: ""
 permalink: pretty
 # favicon: "/img/favicon.png"
