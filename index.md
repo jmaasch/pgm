@@ -11,4 +11,6 @@ sponsors: aml_staff
 
 ***
 
+{% include course_features.html %}
+
 {% include course_content.html %}
