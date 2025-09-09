@@ -1,4 +1,4 @@
-- tier_name: Authors
+- tier_name: Meet the authors
   size: medium
   #description: This course is based on materials created by faculty and instructors at <a href="http://www.cornell.edu">Cornell University</a> and <a href="http://tech.cornell.edu">Cornell Tech</a>.
 #    This is the description for the Instructors (Probably don't need it but implemented it anyway)
@@ -14,7 +14,7 @@
     - name: Stefano Ermon
       title: Associate Professor<br>Stanford University
       img: img/ermon.jpg
-      description: <strong><a href="https://cs.stanford.edu/~ermon/" target="_blank">Stefano Ermon</a></strong> addresses urgent societal problems through advances in probabilistic modeling, learning and inference.
+      description: <strong><a href="https://cs.stanford.edu/~ermon/" target="_blank">Stefano Ermon</a></strong> addresses urgent societal problems through advances in probabilistic modeling, learning, and inference.
     - name: Volodymyr Kuleshov
       title: Assistant Professor<br>Cornell Tech
       img: img/volodymyr_kuleshov.jpg
