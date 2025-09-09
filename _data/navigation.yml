@@ -10,4 +10,9 @@
 #  dropdown:
 #    - name: 2022 (Kuleshov)
 #      link: https://canvas.cornell.edu/courses/44798
-
+- title: What's inside
+  url: #whats-inside
+- title: Download the full tutorial
+  url: #download-full
+- title: Download tutorial chapters
+  url: #download-chapters
